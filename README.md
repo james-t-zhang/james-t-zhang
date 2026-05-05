@@ -4,12 +4,12 @@ I'm a junior at UMBC pursuing a **B.S. in Computer Science**, expecting to gradu
 
 ## 💻 What I'm Working On
 
-I'm actively exploring software engineering and software development — building a foundation across systems programming, data structures, programming languages, and beyond. Some of my recent coursework highlights include implementing Linux kernel modules, working through compiler theory and lambda calculus, and digging deep into operating systems concepts like memory management and process synchronization.
+I'm actively exploring software engineering and software development — building a foundation across *systems programming*, *data structures*, *programming languages*, and beyond. Some of my recent coursework highlights include implementing Linux kernel modules, working through compiler theory and lambda calculus, and digging deep into operating systems concepts like memory management and process synchronization.
 Outside of coursework, I've built projects independently — including a Fast Food Ordering Application written in Python using the Kivy framework with integrated map and weather APIs, which I developed before even starting my CS degree.
 
 ## 🔬 What's Next
 
-I have plans to get involved in research at UMBC and am pursuing opportunities to TA for CS courses — both feel like natural extensions of who I am. I want to contribute to the academic community while continuing to sharpen my technical skills. On the industry side, I'm actively seeking software engineering internships where I can apply what I've been building toward.
+I have plans to get involved in **research** at UMBC and am pursuing **Teaching Assistant** positions for CS courses — both feel like natural extensions of who I am. I want to contribute to the academic community while continuing to sharpen my technical skills. On the industry side, I'm actively seeking software engineering internships where I can apply what I've been building toward.
 
 <!--
 **james-t-zhang/james-t-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
