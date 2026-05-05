@@ -9,7 +9,7 @@ Outside of coursework, I've built projects independently — including a Fast Fo
 
 ## 🔬 What's Next
 
-I have plans to get involved in <ins>research</ins> at UMBC and am pursuing <ins>Teaching Assistant</ins> positions for CS courses — both feel like natural extensions of who I am. I want to contribute to the academic community while continuing to sharpen my technical skills. On the industry side, *I'm actively seeking software engineering internships where I can apply what I've been building toward*.
+I have plans to get involved in <ins>research</ins> at UMBC and am pursuing <ins>Teaching Assistant</ins> positions for CS courses — both feel like natural extensions of who I am. I want to contribute to the academic community while continuing to sharpen my technical skills. On the industry side, *I'm actively seeking software engineering internships* where I can apply what I've been building toward.
 
 <!--
 **james-t-zhang/james-t-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
