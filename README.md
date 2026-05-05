@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm James Zhang
 
-I'm a junior at UMBC pursuing a **B.S. in Computer Science**, expecting to graduate in **December 2027**. I'm passionate about building software and developing the skills needed to contribute meaningfully to the field — from low-level systems work to full application development. Prior to studying CS, I earned a B.S. in Secondary Education from the University of Maryland and spent three years teaching middle school math, an experience that sharpened my ability to communicate complex ideas clearly and approach problems with patience and structure.
+I'm a junior at UMBC pursuing a <ins>B.S. in Computer Science</ins>, expecting to graduate in <ins>December 2027</ins>. I'm passionate about building software and developing the skills needed to contribute meaningfully to the field — from low-level systems work to full application development. Prior to studying CS, I earned a B.S. in Secondary Education from the University of Maryland and spent three years teaching middle school math, an experience that sharpened my ability to communicate complex ideas clearly and approach problems with patience and structure.
 
 ## 💻 What I'm Working On
 
@@ -9,7 +9,7 @@ Outside of coursework, I've built projects independently — including a Fast Fo
 
 ## 🔬 What's Next
 
-I have plans to get involved in **research** at UMBC and am pursuing **Teaching Assistant** positions for CS courses — both feel like natural extensions of who I am. I want to contribute to the academic community while continuing to sharpen my technical skills. On the industry side, I'm actively seeking software engineering internships where I can apply what I've been building toward.
+I have plans to get involved in <ins>research</ins> at UMBC and am pursuing <ins>Teaching Assistant</ins> positions for CS courses — both feel like natural extensions of who I am. I want to contribute to the academic community while continuing to sharpen my technical skills. On the industry side, *I'm actively seeking software engineering internships where I can apply what I've been building toward*.
 
 <!--
 **james-t-zhang/james-t-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
